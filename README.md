@@ -30,5 +30,5 @@ ___
 Credits to [Alberto Barradas](https://www.kaggle.com/abcsds) for providing the datasets on [Kaggle](https://www.kaggle.com/).
 ___
 ### Authors
-Edwin Andrew
+Edwin Andrew\
 Kevin Kan
